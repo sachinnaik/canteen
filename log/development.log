@@ -1671,3 +1671,645 @@ Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2014-08-03 18:08:29 +0530
 
 
 Started GET "/assets/header.jpg" for 127.0.0.1 at 2014-08-03 18:08:29 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-03 18:14:03 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 30ms (Views: 29.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-03 18:14:03 +0530
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2014-08-03 18:14:03 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-08-03 18:14:03 +0530
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-08-03 18:14:03 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-03 18:14:03 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-03 18:14:03 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-03 18:14:03 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-03 18:14:03 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-08-03 18:14:03 +0530
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2014-08-03 18:14:03 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2014-08-03 18:14:03 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-03 18:14:03 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-03 18:14:56 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 12ms (Views: 11.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2014-08-03 18:14:57 +0530
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-08-03 18:14:57 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-03 18:14:57 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-03 18:14:57 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-08-03 18:14:57 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-03 18:14:57 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-03 18:14:57 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-03 18:14:57 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-08-03 18:14:57 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-03 18:14:57 +0530
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2014-08-03 18:14:57 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2014-08-03 18:14:57 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-03 18:16:13 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 18ms (Views: 16.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2014-08-03 18:16:13 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-03 18:16:13 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-08-03 18:16:13 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-03 18:16:13 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-03 18:16:13 +0530
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-08-03 18:16:13 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-03 18:16:13 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-03 18:16:13 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-08-03 18:16:13 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-03 18:16:13 +0530
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2014-08-03 18:16:13 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2014-08-03 18:16:13 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-03 18:19:07 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 10ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2014-08-03 18:19:07 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-03 18:19:07 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-03 18:19:07 +0530
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-08-03 18:19:08 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-03 18:19:08 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-08-03 18:19:08 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-03 18:19:08 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-08-03 18:19:08 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-03 18:19:08 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-03 18:19:08 +0530
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2014-08-03 18:19:08 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2014-08-03 18:19:08 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-03 18:19:47 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 13ms (Views: 11.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2014-08-03 18:19:47 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-03 18:19:47 +0530
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-08-03 18:19:47 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-08-03 18:19:47 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-03 18:19:47 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-03 18:19:47 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-03 18:19:47 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-03 18:19:47 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-08-03 18:19:47 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-03 18:19:47 +0530
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2014-08-03 18:19:47 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2014-08-03 18:19:47 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-03 18:20:16 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 10ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2014-08-03 18:20:16 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-03 18:20:16 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-03 18:20:16 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-08-03 18:20:16 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-03 18:20:16 +0530
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-08-03 18:20:16 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-03 18:20:16 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-03 18:20:16 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-08-03 18:20:16 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-03 18:20:16 +0530
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2014-08-03 18:20:16 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2014-08-03 18:20:16 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-03 18:20:27 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 11ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-08-03 18:20:27 +0530
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2014-08-03 18:20:27 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-03 18:20:27 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-03 18:20:27 +0530
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-08-03 18:20:27 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-03 18:20:27 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-03 18:20:27 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-03 18:20:27 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-08-03 18:20:27 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-03 18:20:27 +0530
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2014-08-03 18:20:27 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2014-08-03 18:20:27 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-03 18:21:01 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 11ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2014-08-03 18:21:01 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-03 18:21:01 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-03 18:21:01 +0530
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-08-03 18:21:01 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-03 18:21:01 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-08-03 18:21:01 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-03 18:21:01 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-03 18:21:01 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-08-03 18:21:01 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-03 18:21:01 +0530
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2014-08-03 18:21:01 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2014-08-03 18:21:01 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-03 18:21:12 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2014-08-03 18:21:12 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-03 18:21:12 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-03 18:21:12 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-08-03 18:21:12 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-03 18:21:12 +0530
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-08-03 18:21:12 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-03 18:21:12 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-03 18:21:12 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-08-03 18:21:12 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-03 18:21:12 +0530
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2014-08-03 18:21:12 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2014-08-03 18:21:12 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-03 18:21:46 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 12ms (Views: 11.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2014-08-03 18:21:46 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-03 18:21:47 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-03 18:21:47 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-03 18:21:47 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-08-03 18:21:47 +0530
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-08-03 18:21:47 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-03 18:21:47 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-03 18:21:47 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-08-03 18:21:47 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-03 18:21:47 +0530
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2014-08-03 18:21:47 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2014-08-03 18:21:47 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-03 18:22:01 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 28ms (Views: 26.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-03 18:22:01 +0530
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-08-03 18:22:01 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-03 18:22:01 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-08-03 18:22:01 +0530
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2014-08-03 18:22:01 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-03 18:22:01 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-08-03 18:22:01 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-03 18:22:01 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-03 18:22:01 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-03 18:22:01 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2014-08-03 18:22:01 +0530
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2014-08-03 18:22:01 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-03 18:22:41 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 11ms (Views: 9.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2014-08-03 18:22:41 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-08-03 18:22:41 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-03 18:22:41 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-03 18:22:41 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-03 18:22:41 +0530
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-08-03 18:22:41 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-03 18:22:41 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-03 18:22:41 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-08-03 18:22:41 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-03 18:22:41 +0530
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2014-08-03 18:22:41 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2014-08-03 18:22:41 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-03 18:23:05 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 11ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2014-08-03 18:23:05 +0530
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-08-03 18:23:05 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-03 18:23:05 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-03 18:23:05 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-03 18:23:05 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-08-03 18:23:05 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-03 18:23:05 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-03 18:23:05 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-08-03 18:23:05 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-03 18:23:05 +0530
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2014-08-03 18:23:05 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2014-08-03 18:23:05 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-03 22:37:49 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 12ms (Views: 10.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2014-08-03 22:37:49 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-03 22:37:49 +0530
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-08-03 22:37:49 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-03 22:37:49 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-03 22:37:49 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-08-03 22:37:49 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-03 22:37:49 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-03 22:37:49 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-08-03 22:37:49 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-03 22:37:49 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2014-08-03 22:37:49 +0530
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2014-08-03 22:37:49 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-03 22:39:51 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-08-03 22:39:51 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-08-03 22:39:51 +0530
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2014-08-03 22:39:51 +0530
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-08-03 22:39:51 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-08-03 22:39:51 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-08-03 22:39:51 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-08-03 22:39:51 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-08-03 22:39:51 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-08-03 22:39:51 +0530
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2014-08-03 22:39:51 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-08-03 22:39:51 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2014-08-03 22:39:51 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2014-08-03 22:39:58 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 10ms (Views: 9.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2014-08-03 22:39:58 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2014-08-03 22:39:58 +0530

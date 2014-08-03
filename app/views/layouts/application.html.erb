@@ -8,14 +8,25 @@
 </head>
 <body>
 <header class="container">
-  <div class="">
-    <h1 class="text-left"><%= image_tag "roche_logo.png" %>  Canteen Management </h1>
+  <div>
+    <div class="col-xs-9">
+      <h1 class="text-left"><%= image_tag "roche_logo.png" %>  Canteen Management </h1>    
+    </div>
+    <div class="col-xs-3 text-right" style="margin-top: 30px"><span>Logged As: Sirish </span></div>
+    
   </div>
   <%= image_tag "header.jpg", :class => "header-img" %>
   <ul class="nav nav-pills nav-bg-color bor-radius">
     <li class="active"><a>Home</a></li>
     <li><a>Menu</a></li>
-    <li><a>Report</a></li>
+    <li class="dropdown">
+      <a class="dropdown-toggle" data-toggle="dropdown" href="#">Report <span class="caret"></span></a>
+      <ul class="dropdown-menu" role="menu">
+        <li><a href="">Daily</a></li>
+        <li><a href="">Wastage</a></li>
+      </ul>
+    </li>
+    <li class="fright"><a>My Account</a></li>
   </ul>
 
 </header>
