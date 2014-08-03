@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CanteenService</title>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+<header class="container">
+  <div class="">
+    <h1 class="text-left"><%= image_tag "roche_logo.png" %>  Canteen Service </h1>
+  </div>
+  <%= image_tag "header.jpg", :class => "header-img" %>
+  <ul class="nav nav-pills nav-bg-color bor-radius">
+    <li class="active"><a>Home</a></li>
+    <li><a>Menu</a></li>
+    <li><a>Report</a></li>
+  </ul>
+
+</header>
+<div class="container">
+  <%= yield %>
+</div>  
+
+</body>
+</html>
