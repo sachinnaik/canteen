@@ -1,4 +1,12 @@
 Rails.application.routes.draw do
+  get 'menus/index'
+
+  get 'restaurants/index'
+
+  get 'reports/daily'
+
+  get 'reports/wastage'
+
   get 'home/index'
 
   # The priority is based upon order of creation: first created -> highest priority.
