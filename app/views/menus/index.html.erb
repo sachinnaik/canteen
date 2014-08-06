@@ -1,2 +1,82 @@
-<h1>Menus#index</h1>
-<p>Find me in app/views/menus/index.html.erb</p>
+<h3>Menu</h3>
+<table class="table table-condensed table-bordered">
+  <tr>
+    <th colspan="4">Veg Starters</th>
+  </tr>
+  <tr>
+    <td>Hara bhara Kabab</td>
+    <td width="100px" align="right">Rs. 80</td>
+    <td width="20px"><%= check_box_tag "check" %></td>
+    <td width="50px"><%= number_field "quantity", in: 1..10, step: 1 %></td>    
+  </tr>
+  <tr>
+    <td>Pakodas</td>
+    <td align="right">Rs. 60</td>
+    <td><%= check_box_tag "check" %></td>
+    <td><%= number_field "quantity", in: 1..10, step: 1 %></td>    
+  </tr>
+  <tr>
+    <td>Gobi Manchurian</td>
+    <td align="right">Rs. 70</td>
+    <td><%= check_box_tag "check" %></td>
+    <td><%= number_field "quantity", in: 1..10, step: 1 %></td>    
+  </tr>
+  <tr>
+    <td>Spring Rolls</td>
+    <td align="right">Rs. 120</td>
+    <td><%= check_box_tag "check" %></td>
+    <td><%= number_field "quantity", in: 1..10, step: 1 %></td>    
+  </tr>
+  <tr>
+    <td>Vegetable Platter</td>
+    <td align="right">Rs. 250</td>
+    <td><%= check_box_tag "check" %></td>
+    <td><%= number_field "quantity", in: 1..10, step: 1 %></td>    
+  </tr>
+
+  <tr>
+    <th colspan="4">Soups</th>
+  </tr>
+  <tr>
+    <td>Tomato Soups</td>
+    <td width="100px" align="right">Rs. 100</td>
+    <td width="20px"><%= check_box_tag "check" %></td>
+    <td width="50px"><%= number_field "quantity", in: 1..10, step: 1 %></td>    
+  </tr>
+  <tr>
+    <td>Clear Soup</td>
+    <td align="right">Rs. 100</td>
+    <td><%= check_box_tag "check" %></td>
+    <td><%= number_field "quantity", in: 1..10, step: 1 %></td>    
+  </tr>
+  <tr>
+    <td>Manchou Soup</td>
+    <td align="right">Rs. 110</td>
+    <td><%= check_box_tag "check" %></td>
+    <td><%= number_field "quantity", in: 1..10, step: 1 %></td>    
+  </tr>
+  <tr>
+    <td>Sweet Corn Soup</td>
+    <td align="right">Rs. 120</td>
+    <td><%= check_box_tag "check" %></td>
+    <td><%= number_field "quantity", in: 1..10, step: 1 %></td>    
+  </tr>
+  <tr>
+    <td>Vegetable Soup</td>
+    <td align="right">Rs. 110</td>
+    <td><%= check_box_tag "check" %></td>
+    <td><%= number_field "quantity", in: 1..10, step: 1 %></td>    
+  </tr>
+</table>
+<div class="btn-group"><%= button_tag "Order" %></div>
+<div align="right">
+<ul class="pagination">
+  <li><a href="#">&laquo;</a></li>
+  <li><a href="#">1</a></li>
+  <li><a href="#">2</a></li>
+  <li><a href="#">3</a></li>
+  <li><a href="#">4</a></li>
+  <li><a href="#">5</a></li>
+  <li><a href="#">&raquo;</a></li>
+</ul>
+</div>
