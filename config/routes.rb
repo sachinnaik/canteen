@@ -3,6 +3,8 @@ Rails.application.routes.draw do
 
   get 'restaurants/index'
 
+  get 'restaurants/weekly'
+
   get 'reports/daily'
 
   get 'reports/wastage'
