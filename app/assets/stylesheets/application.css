@@ -19,3 +19,32 @@
 .header-img { margin: 8px;}
 
 .bor-radius { border-radius: 4px;}
+.modal-content{
+	padding: 40px;
+}
+.small-modal-content{
+	padding: 20px;
+}
+
+.modal-content td input{
+	width: 100%;
+	border:none;
+}
+.modal-content td .check-box{
+	width: auto;
+}
+h3{
+	margin-top:0;
+}
+.right{
+	float: right;
+}
+.bold{
+	font-weight: bold;
+}
+.badge{
+	background: #428bca;
+}
+.label-txt{
+	margin: 10px 0;
+}

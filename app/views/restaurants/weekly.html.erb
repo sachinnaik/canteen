@@ -1,0 +1,101 @@
+<h3>Weekly menu list</h3>
+<table class="table table-condensed table-bordered">
+  <tr>
+    <th width="50px"></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+    <th>Saturday</th>
+  </tr>
+  <tr>
+    <td>Breakfast</td>
+    <td>Idli</td>
+    <td>Dosa</td>
+    <td>wada</td>
+    <td>Chapati</td>
+    <td>Idli</td>
+    <td>wada</td>
+  </tr>
+  <tr>
+    <td>Lunch</td>
+    <td>Idli</td>
+    <td>Dosa</td>
+    <td>wada</td>
+    <td>Chapati</td>
+    <td>Idli</td>
+    <td>wada</td>
+  </tr>
+</table>
+<button class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">Add</button>
+<button class="btn btn-primary" data-toggle="modal" data-target=".bs2-example-modal-lg">Order</button>
+
+<!-- modal for add item -->
+<div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <table class="table table-condensed table-bordered">
+        <tr>
+          <th width="50px"></th>
+          <th>Monday</th>
+          <th>Tuesday</th>
+          <th>Wednesday</th>
+          <th>Thursday</th>
+          <th>Friday</th>
+          <th>Saturday</th>
+        </tr>
+        <tr>
+          <td>Breakfast</td>
+          <td><input type="text" placeholder="enter item"></td>
+          <td><input type="text" placeholder="enter item"></td>
+          <td><input type="text" placeholder="enter item"></td>
+          <td><input type="text" placeholder="enter item"></td>
+          <td><input type="text" placeholder="enter item"></td>
+          <td><input type="text" placeholder="enter item"></td>
+        </tr>
+        <tr>
+          <td>Lunch</td>
+          <td><input type="text" placeholder="enter item"></td>
+          <td><input type="text" placeholder="enter item"></td>
+          <td><input type="text" placeholder="enter item"></td>
+          <td><input type="text" placeholder="enter item"></td>
+          <td><input type="text" placeholder="enter item"></td>
+          <td><input type="text" placeholder="enter item"></td>
+        </tr>
+      </table>
+      <button class="btn btn-primary" id="add-btn">Save</button>
+    </div>
+  </div>
+</div>
+
+<!-- modal for order single item -->
+<div class="modal fade bs2-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content small-modal-content">
+      <h3>Todays menu</h3>
+      <div>Choose item from below list</div>
+      <table class="table table-condensed table-bordered">
+        <tr>
+          <td width="50px">Breakfast:</td>
+          <td><input class="check-box" type="checkbox">Idli</td>
+        </tr>
+        <tr>
+          <td width="50px">Lunch:</td>
+          <td><input class="check-box" type="checkbox">Thali</td>
+        </tr>
+      </table>
+      <button class="btn btn-primary" id="order-btn">Save</button>
+    </div>
+  </div>
+</div>
+<script>
+  $(document).ready(function() {
+    $('#add-btn').on('click', function(){
+      $('.bs-example-modal-lg').modal('hide');
+    });
+    $('#order-btn').on('click', function(){
+      $('.bs2-example-modal-lg').modal('hide');
+    });
+  });
+</script>
