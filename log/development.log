@@ -8570,3 +8570,489 @@ Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2014-08-06 12:07:50 +0530
 
 
 Started GET "/assets/header.jpg" for 127.0.0.1 at 2014-08-06 12:07:50 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2015-07-05 16:39:06 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 693ms (Views: 685.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-07-05 16:39:07 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 10ms (Views: 9.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2015-07-05 16:39:07 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2015-07-05 16:39:07 +0530
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2015-07-05 16:39:07 +0530
+
+
+Started GET "/assets/menus.css?body=1" for 127.0.0.1 at 2015-07-05 16:39:07 +0530
+
+
+Started GET "/assets/reports.css?body=1" for 127.0.0.1 at 2015-07-05 16:39:07 +0530
+
+
+Started GET "/assets/restaurants.css?body=1" for 127.0.0.1 at 2015-07-05 16:39:07 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-07-05 16:39:07 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-07-05 16:39:07 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-07-05 16:39:07 +0530
+
+
+Started GET "/assets/menus.js?body=1" for 127.0.0.1 at 2015-07-05 16:39:07 +0530
+
+
+Started GET "/assets/reports.js?body=1" for 127.0.0.1 at 2015-07-05 16:39:07 +0530
+
+
+Started GET "/assets/restaurants.js?body=1" for 127.0.0.1 at 2015-07-05 16:39:07 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-07-05 16:39:07 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-07-05 16:39:07 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2015-07-05 16:39:07 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-07-05 16:39:07 +0530
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2015-07-05 16:39:07 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2015-07-05 16:39:07 +0530
+
+
+Started GET "/restaurants/index" for 127.0.0.1 at 2015-07-05 16:39:16 +0530
+Processing by RestaurantsController#index as HTML
+  Rendered restaurants/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 17ms (Views: 16.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/restaurants/weekly" for 127.0.0.1 at 2015-07-05 16:39:20 +0530
+Processing by RestaurantsController#weekly as HTML
+  Rendered restaurants/weekly.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 15ms (Views: 14.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/reports/daily" for 127.0.0.1 at 2015-07-05 16:40:26 +0530
+Processing by ReportsController#daily as HTML
+  Rendered reports/daily.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 15ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/reports/wastage" for 127.0.0.1 at 2015-07-05 16:40:32 +0530
+Processing by ReportsController#wastage as HTML
+  Rendered reports/wastage.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 24ms (Views: 23.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-07-05 16:44:54 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 22ms (Views: 21.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/restaurants/index" for 127.0.0.1 at 2015-07-05 16:44:55 +0530
+Processing by RestaurantsController#index as HTML
+  Rendered restaurants/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 22ms (Views: 21.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/menus/index" for 127.0.0.1 at 2015-07-05 16:45:02 +0530
+Processing by MenusController#index as HTML
+  Rendered menus/index.html.erb within layouts/application (10.1ms)
+Completed 200 OK in 26ms (Views: 23.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/menus/index" for 127.0.0.1 at 2015-07-05 16:55:07 +0530
+Processing by MenusController#index as HTML
+  Rendered menus/index.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 18ms (Views: 17.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2015-07-05 16:55:07 +0530
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2015-07-05 16:55:07 +0530
+
+
+Started GET "/assets/restaurants.css?body=1" for 127.0.0.1 at 2015-07-05 16:55:07 +0530
+
+
+Started GET "/assets/reports.css?body=1" for 127.0.0.1 at 2015-07-05 16:55:07 +0530
+
+
+Started GET "/assets/menus.css?body=1" for 127.0.0.1 at 2015-07-05 16:55:07 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2015-07-05 16:55:07 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-07-05 16:55:07 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-07-05 16:55:07 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-07-05 16:55:07 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-07-05 16:55:07 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2015-07-05 16:55:07 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-07-05 16:55:07 +0530
+
+
+Started GET "/assets/menus.js?body=1" for 127.0.0.1 at 2015-07-05 16:55:07 +0530
+
+
+Started GET "/assets/reports.js?body=1" for 127.0.0.1 at 2015-07-05 16:55:07 +0530
+
+
+Started GET "/assets/restaurants.js?body=1" for 127.0.0.1 at 2015-07-05 16:55:07 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-07-05 16:55:07 +0530
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2015-07-05 16:55:08 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2015-07-05 16:55:08 +0530
+
+
+Started GET "/restaurants/weekly" for 127.0.0.1 at 2015-07-05 16:55:11 +0530
+Processing by RestaurantsController#weekly as HTML
+  Rendered restaurants/weekly.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 16ms (Views: 14.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/restaurants/weekly" for 127.0.0.1 at 2015-07-05 17:44:14 +0530
+Processing by RestaurantsController#weekly as HTML
+  Rendered restaurants/weekly.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 18ms (Views: 17.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2015-07-05 17:44:14 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2015-07-05 17:44:14 +0530
+
+
+Started GET "/assets/reports.css?body=1" for 127.0.0.1 at 2015-07-05 17:44:14 +0530
+
+
+Started GET "/assets/menus.css?body=1" for 127.0.0.1 at 2015-07-05 17:44:14 +0530
+
+
+Started GET "/assets/restaurants.css?body=1" for 127.0.0.1 at 2015-07-05 17:44:14 +0530
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2015-07-05 17:44:14 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-07-05 17:44:14 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-07-05 17:44:14 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-07-05 17:44:14 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-07-05 17:44:14 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2015-07-05 17:44:14 +0530
+
+
+Started GET "/assets/menus.js?body=1" for 127.0.0.1 at 2015-07-05 17:44:14 +0530
+
+
+Started GET "/assets/reports.js?body=1" for 127.0.0.1 at 2015-07-05 17:44:14 +0530
+
+
+Started GET "/assets/restaurants.js?body=1" for 127.0.0.1 at 2015-07-05 17:44:14 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-07-05 17:44:14 +0530
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2015-07-05 17:44:14 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-07-05 17:44:14 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2015-07-05 17:44:14 +0530
+
+
+Started GET "/restaurants/weekly" for 127.0.0.1 at 2015-07-05 17:58:46 +0530
+Processing by RestaurantsController#weekly as HTML
+  Rendered restaurants/weekly.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 11ms (Views: 10.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2015-07-05 17:58:46 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2015-07-05 17:58:46 +0530
+
+
+Started GET "/assets/menus.css?body=1" for 127.0.0.1 at 2015-07-05 17:58:46 +0530
+
+
+Started GET "/assets/restaurants.css?body=1" for 127.0.0.1 at 2015-07-05 17:58:46 +0530
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2015-07-05 17:58:46 +0530
+
+
+Started GET "/assets/reports.css?body=1" for 127.0.0.1 at 2015-07-05 17:58:46 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-07-05 17:58:46 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-07-05 17:58:46 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-07-05 17:58:46 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-07-05 17:58:46 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2015-07-05 17:58:46 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-07-05 17:58:46 +0530
+
+
+Started GET "/assets/menus.js?body=1" for 127.0.0.1 at 2015-07-05 17:58:46 +0530
+
+
+Started GET "/assets/reports.js?body=1" for 127.0.0.1 at 2015-07-05 17:58:46 +0530
+
+
+Started GET "/assets/restaurants.js?body=1" for 127.0.0.1 at 2015-07-05 17:58:46 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-07-05 17:58:46 +0530
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2015-07-05 17:58:46 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2015-07-05 17:58:46 +0530
+
+
+Started GET "/restaurants/weekly" for 127.0.0.1 at 2015-07-05 17:59:32 +0530
+Processing by RestaurantsController#weekly as HTML
+  Rendered restaurants/weekly.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 12ms (Views: 11.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2015-07-05 17:59:32 +0530
+
+
+Started GET "/assets/restaurants.css?body=1" for 127.0.0.1 at 2015-07-05 17:59:32 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2015-07-05 17:59:32 +0530
+
+
+Started GET "/assets/reports.css?body=1" for 127.0.0.1 at 2015-07-05 17:59:32 +0530
+
+
+Started GET "/assets/menus.css?body=1" for 127.0.0.1 at 2015-07-05 17:59:32 +0530
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2015-07-05 17:59:32 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-07-05 17:59:32 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-07-05 17:59:32 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-07-05 17:59:32 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2015-07-05 17:59:32 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-07-05 17:59:32 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-07-05 17:59:32 +0530
+
+
+Started GET "/assets/menus.js?body=1" for 127.0.0.1 at 2015-07-05 17:59:32 +0530
+
+
+Started GET "/assets/reports.js?body=1" for 127.0.0.1 at 2015-07-05 17:59:32 +0530
+
+
+Started GET "/assets/restaurants.js?body=1" for 127.0.0.1 at 2015-07-05 17:59:32 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-07-05 17:59:32 +0530
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2015-07-05 17:59:32 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2015-07-05 17:59:32 +0530
+
+
+Started GET "/reports/daily" for 127.0.0.1 at 2015-07-05 18:00:50 +0530
+Processing by ReportsController#daily as HTML
+  Rendered reports/daily.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 19ms (Views: 18.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/reports/wastage" for 127.0.0.1 at 2015-07-05 18:00:58 +0530
+Processing by ReportsController#wastage as HTML
+  Rendered reports/wastage.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 18ms (Views: 17.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/reports/wastage" for 127.0.0.1 at 2015-07-05 18:06:28 +0530
+Processing by ReportsController#wastage as HTML
+  Rendered reports/wastage.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 16ms (Views: 14.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/reports/wastage" for 127.0.0.1 at 2015-07-05 18:07:36 +0530
+Processing by ReportsController#wastage as HTML
+  Rendered reports/wastage.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 12ms (Views: 11.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2015-07-05 18:07:36 +0530
+
+
+Started GET "/assets/restaurants.css?body=1" for 127.0.0.1 at 2015-07-05 18:07:36 +0530
+
+
+Started GET "/assets/menus.css?body=1" for 127.0.0.1 at 2015-07-05 18:07:36 +0530
+
+
+Started GET "/assets/reports.css?body=1" for 127.0.0.1 at 2015-07-05 18:07:36 +0530
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2015-07-05 18:07:36 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2015-07-05 18:07:36 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-07-05 18:07:36 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-07-05 18:07:36 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-07-05 18:07:36 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-07-05 18:07:36 +0530
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2015-07-05 18:07:36 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-07-05 18:07:36 +0530
+
+
+Started GET "/assets/menus.js?body=1" for 127.0.0.1 at 2015-07-05 18:07:36 +0530
+
+
+Started GET "/assets/reports.js?body=1" for 127.0.0.1 at 2015-07-05 18:07:36 +0530
+
+
+Started GET "/assets/restaurants.js?body=1" for 127.0.0.1 at 2015-07-05 18:07:36 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-07-05 18:07:36 +0530
+
+
+Started GET "/assets/roche_logo.png" for 127.0.0.1 at 2015-07-05 18:07:36 +0530
+
+
+Started GET "/assets/header.jpg" for 127.0.0.1 at 2015-07-05 18:07:36 +0530
+
+
+Started GET "/restaurants/index" for 127.0.0.1 at 2015-07-05 18:11:19 +0530
+Processing by RestaurantsController#index as HTML
+  Rendered restaurants/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 14ms (Views: 13.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/restaurants/weekly" for 127.0.0.1 at 2015-07-05 18:11:20 +0530
+Processing by RestaurantsController#weekly as HTML
+  Rendered restaurants/weekly.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 16ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/restaurants/index" for 127.0.0.1 at 2015-07-05 18:11:22 +0530
+Processing by RestaurantsController#index as HTML
+  Rendered restaurants/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 19ms (Views: 18.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/restaurants/weekly" for 127.0.0.1 at 2015-07-05 18:11:23 +0530
+Processing by RestaurantsController#weekly as HTML
+  Rendered restaurants/weekly.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 21ms (Views: 20.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/reports/daily" for 127.0.0.1 at 2015-07-05 18:11:39 +0530
+Processing by ReportsController#daily as HTML
+  Rendered reports/daily.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 19ms (Views: 17.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/reports/wastage" for 127.0.0.1 at 2015-07-05 18:11:45 +0530
+Processing by ReportsController#wastage as HTML
+  Rendered reports/wastage.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 19ms (Views: 18.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/reports/wastage" for 127.0.0.1 at 2015-07-05 18:11:48 +0530
+Processing by ReportsController#wastage as HTML
+  Rendered reports/wastage.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 17ms (Views: 16.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/restaurants/index" for 127.0.0.1 at 2015-07-05 18:11:50 +0530
+Processing by RestaurantsController#index as HTML
+  Rendered restaurants/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 18ms (Views: 17.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/menus/index" for 127.0.0.1 at 2015-07-05 18:11:54 +0530
+Processing by MenusController#index as HTML
+  Rendered menus/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 17ms (Views: 16.0ms | ActiveRecord: 0.0ms)
